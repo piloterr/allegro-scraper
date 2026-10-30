@@ -276,22 +276,22 @@ Example response from the API reference, abridged — real values depend on the 
       }
     ],
     "seller": {
-      "id": "46897551",
-      "name": "artur_puscz",
+      "id": "example",
+      "name": "example",
       "brand": {
         "logotype": null,
         "description": null
       },
-      "login": "artur_puscz",
+      "login": "example",
       "banner": null,
       "company": {
-        "name": "FAREX",
+        "name": "example",
         "address": {},
         "verified": true,
-        "representative_label": "ARTUR PUSCZ",
-        "tax_identification_number": "754-201-97-61",
+        "representative_label": "example",
+        "tax_identification_number": "example",
         "national_court_register_number": null,
-        "statistical_identification_number": "532469268"
+        "statistical_identification_number": "example"
       },
       "contact": {
         "emails": [],
@@ -302,7 +302,7 @@ Example response from the API reference, abridged — real values depend on the 
         ]
       },
       "listing": {
-        "url": "https://allegro.pl/uzytkownik/artur_puscz"
+        "url": "example"
       },
       "logotype": null,
       "vacation": null,
@@ -314,12 +314,12 @@ Example response from the API reference, abridged — real values depend on the 
       "privacy_policy": null,
       "representation": null,
       "category_listing": {
-        "url": "https://allegro.pl/uzytkownik/artur_puscz/uslugi-pozostale-258984"
+        "url": "example"
       }
     },
     "charity": null,
     "contact": {
-      "id": "317e0f93-f02d-4af0-a90b-3f5cd155838d",
+      "id": "example",
       "emails": [
         {}
       ],
